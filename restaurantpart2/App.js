@@ -17,7 +17,7 @@ const App = () => {
         <Stack.Screen
           name="LandingScreen"
           component={LandingScreen}
-          options={{ title: 'Welcome' }}
+          options={{ title: 'Wel come' }}
         />
         <Stack.Screen
           name="LoginScreen"
